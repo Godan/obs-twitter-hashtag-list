@@ -1,4 +1,4 @@
-# obs-twitter-hashtag-list
+# app
 
 ## Build Setup
 
